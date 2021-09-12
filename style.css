@@ -1,0 +1,61 @@
+#content{
+
+  background-image: url("images/image.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 600px;
+ 
+}
+#intro h1{
+  color: white;
+  text-align: center;
+  padding-top: 170px;
+}
+
+#intro p{
+  color: white;
+  text-align: center;
+}
+
+#about{
+  text-align: center;
+}
+
+#about a:link, a:visited{
+  color: white;
+  border: 1px solid #FD62CC;
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px; 
+}
+#about a:hover, a:active {
+  background-color: #FD62CC;
+  color: white;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+
+table td, th{
+  border:1px solid #fd62cc;
+  border-collapse: collapse;
+  color:white;
+  text-align: center;
+}
+
+#table h3{
+  margin-top: 50px;
+  color: white;
+  text-align: center;
+
+}
+
+
+  
+
+ 
+ 
